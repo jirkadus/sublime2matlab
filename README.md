@@ -1,5 +1,5 @@
 # Sublime2Matlab
-Runs m-file in Matlab from Sublime using any desired key combination without opening another Matlab instance.
+Runs m-file in Matlab from Sublime using any desired key combination (Win Key + Space Bar) without opening another Matlab instance.
 
 I have created the script because I love Sublime Text, but hate to save file, go to Matlab and run it. I wanted to simplify my life. It was tested on Sublime Text 3 beta and Matlab 2013b.
 
