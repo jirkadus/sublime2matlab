@@ -10,7 +10,7 @@ ifWinActive, Sublime 							; if active window is Sublime Text
 	{
 		MsgBox Opened file is not a m-file.		
 	}
-	
+
 	else
 	{	
 		StringLeft, mFileName, windowTitle, pos+2 	; create string containing whole path of the file (+2 to include .m)
@@ -24,7 +24,4 @@ ifWinActive, Sublime 							; if active window is Sublime Text
 		;WinActivate, MATLAB R2013b 				;replaced with Sleep.
 		Send {F5} 								; "press" F5 to run the m-file
 	}
-
 }
-
-	
