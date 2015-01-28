@@ -22,6 +22,6 @@ ifWinActive, Sublime 							; if active window is Sublime Text
 		Run, %mFileName% 						; open the file in Matlab (way how to get always script window active)
 		Sleep, 100								; wait 100ms to make sure F5 is not "pressed" too early
 		;WinActivate, MATLAB R2013b 				;replaced with Sleep.
-		Send {F5} 								; "press" F5 to run the m-file
+		Send {F5} 								; "press" F5 to run the m-file 
 	}
 }
