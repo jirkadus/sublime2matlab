@@ -17,7 +17,7 @@ Step 3: Open any m-file in Sublime. Press WinKey + space bar to open it in Matla
 
 # Customisation
 You will probably want to make following changes:<br>
-	* To change shortcut that will trigger the file execution change the <b>#space::</b> according to list at http://www.autohotkey.com/docs/Hotkeys.htm (for example to us <i>Control+Shift+Alt+R</i> use <b>^+!R::</b> instead). After customisation, the script has to be closed and opened again - reloaded.
 
-	* Make sure that Matlab us set to open m-files as default program in Windows.
+* To change shortcut that will trigger the file execution change the <b>#space::</b> according to list at http://www.autohotkey.com/docs/Hotkeys.htm (for example to use <i>Control+Shift+Alt+R</i> instead, use <b>^+!R::</b> parameter). After customisation, the script has to be closed and opened again - reloaded.
+* Make sure that Matlab us set to open m-files as default program in Windows.
 
