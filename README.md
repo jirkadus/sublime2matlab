@@ -6,6 +6,8 @@ I have created the script because I love Sublime Text, but hate to save file, go
 #How does it work?
 It is a script written in AutoHotkey language (open source, Windows only), that runs in the background and when set key combination is detected, it gets path of the m-file opened in Sublime Text and opens it in Matlab and "press" F5 to run it.
 
+More information and description can be found in the code comments.
+
 The script is written that it works only if Sublime Text window is opened and tab with m-file is active.
 
 #How to use it?
