@@ -10,12 +10,12 @@ More information and description can be found in the code comments.
 
 The script is written to work only if Sublime Text window is opened and tab with m-file is active.
 
-#How to use it?
+<h2>How to use it?</h2>
 Step 1: Instal AutoHotkey (http://www.autohotkey.com)
 Step 2: Download the sublime2matlab.ahk file and run it. (it will run in the background)
 Step 3: Open any m-file in Sublime. Press WinKey + space bar to open it in Matlab and run it.
 
-# Customisation
+<h2>Customisation</h2>
 You will probably want to make following changes:<br>
 
 * To change shortcut that will trigger the file execution change the <b>#space::</b> according to list at http://www.autohotkey.com/docs/Hotkeys.htm (for example to use <i>Control+Shift+Alt+R</i> instead, use <b>^+!R::</b> parameter). After customisation, the script has to be closed (right click on the green "H" icon in tray) and opened again - reloaded.
