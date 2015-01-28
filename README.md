@@ -16,8 +16,8 @@ Step 2: Download the sublime2matlab.ahk file and run it. (it will run in the bac
 Step 3: Open any m-file in Sublime. Press WinKey + space bar to open it in Matlab and run it.
 
 # Customisation
-You will probably want to make following changes:
+You will probably want to make following changes:<br>
 	* To change shortcut that will trigger the file execution change the <b>#space::</b> according to list at http://www.autohotkey.com/docs/Hotkeys.htm (for example to us <i>Control+Shift+Alt+R</i> use <b>^+!R::</b> instead). After customisation, the script has to be closed and opened again - reloaded.
 
-	* make sure that Matlab us set to open m-files as default program in Windows.
+	* Make sure that Matlab us set to open m-files as default program in Windows.
 
