@@ -8,7 +8,7 @@ It is a script written in AutoHotkey language (open source, Windows only), that 
 
 More information and description can be found in the code comments.
 
-The script is written to work only if Sublime Text window is opened and tab with m-file is active.
+The script is written to work only if Sublime Text window is opened and tab with m-file is active to prevent missuse by pressing the combination while not in Sublime.
 
 <h2>How to use it?</h2>
 Step 1: Instal AutoHotkey (http://www.autohotkey.com)<br>
