@@ -4,7 +4,7 @@ Runs m-file in Matlab from Sublime using any desired key combination (Win Key + 
 I have created the script because I love Sublime Text, but hate to save file, go to Matlab and run it. I wanted to simplify my life. It was tested on Sublime Text 3 beta and Matlab 2013b.
 
 <h2>How does it work?</h2>
-It is a script written in AutoHotkey language (open source, Windows only), that runs in the background and when set key combination is detected, it gets path of the m-file opened in Sublime Text and opens it in Matlab and "press" F5 to run it.
+It is a script written in AutoHotkey language (open source, Windows only, https://github.com/AutoHotkey/AutoHotkey), that runs in the background and when set key combination is detected, it gets path of the m-file opened in Sublime Text and opens it in Matlab and "press" F5 to run it.
 
 More information and description can be found in the code comments.
 
