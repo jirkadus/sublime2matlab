@@ -13,6 +13,7 @@ ifWinActive, Sublime 							; if active window is Sublime Text
 
 	else
 	{	
+		Send ^s 		 						; Save m-file
 		StringLeft, mFileName, windowTitle, pos+2 	; create string containing whole path of the file (+2 to include .m)
 
 		;MsgBox, %windowTitle%
